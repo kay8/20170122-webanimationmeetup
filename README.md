@@ -30,6 +30,11 @@
 - [A Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/)
 - [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
 
+##How to export SVG from design tools
+
+- [Tips for Creating and Exporting Better SVGs for the Web](https://sarasoueidan.com/blog/svg-tips-for-designers/)
+- [Exploring ways to export clean .svg icons with Sketch…the correct way](https://medium.com/sketch-app-sources/exploring-ways-to-export-clean-svg-icons-with-sketch-the-correct-way-752e73ec4694#.a6huz387s)
+
 ##SVG Animation
 
 - [SVG Drawing Animation](https://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
