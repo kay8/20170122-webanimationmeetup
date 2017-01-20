@@ -1,7 +1,7 @@
 # 20170122 Web Animation Meetup
 
 - [CodePen](http://codepen.io/)
-- [Demoっぽいもの](http://codepen.io/kay8/full/JERjYr)
+- [Demoっぽいもの](http://codepen.io/kay8/pen/JERjYr)
 
 ##Web Animation in general
 
