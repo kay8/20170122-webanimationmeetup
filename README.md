@@ -50,3 +50,9 @@
 
 - [jQuery 3 supports SVG](https://jquery.com/upgrade-guide/3.0/#feature-svg-documents-support-class-operations)
 
+## Exercise
+
+- [Ball bouncing](http://codepen.io/kay8/pen/wgdqbw?editors=0100)
+- [Sample: Ball bouncing with GSAP](http://codepen.io/kay8/pen/egWKWe?editors=0010)
+- [Frog Logo Animation](http://codepen.io/kay8/pen/VPbBLL?editors=0010)
+
